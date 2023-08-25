@@ -8,12 +8,12 @@ const About = () => {
             <p className='text-4xl font-bold inline border-b-4 border-gray-500'>About</p>
         </div>
         <p className='text-xl mt-20'>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eos repellendus, laboriosam autem sint aut doloremque exercitationem porro quaerat eum aliquam animi, veniam iste officia. Iure voluptatum minus voluptates enim ipsum, impedit optio culpa. Rem dolor doloribus quod facilis repudiandae ipsum dignissimos, dicta hic expedita explicabo dolorum, laudantium itaque impedit quisquam?
+            I'm Software Engineer & self-learning technology Enthusiast, having good Knowledge of Data-structure, Object-Oriented Programming concepts, analytical & communication skill. As Software Developer having good understanding of Front-End, Back-End Technologies & have personal and fun-time projects developed & deployed. Successfully contributed Open-source Projects.
         </p>
 
         <br />
         <p className='text-xl'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur optio odio saepe, accusantium eum reprehenderit est, nesciunt, hic reiciendis blanditiis veniam a ducimus nobis doloremque exercitationem atque quo aliquid. Tempora corporis eius in. Iure aspernatur amet obcaecati sit nostrum officiis. Cumque consequatur incidunt illum adipisci odit aut dolorem consequuntur necessitatibus?
+            
         </p>
       </div>
     </div>
